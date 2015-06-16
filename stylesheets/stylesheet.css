@@ -210,6 +210,11 @@ a {
 .site-footer-credits {
   color: #819198; }
 
+#post-nav {
+  margin-top: 20px;
+  margin-bottom: 60px;
+}
+
 @media screen and (min-width: 64em) {
   .site-footer {
     font-size: 1rem; } }
